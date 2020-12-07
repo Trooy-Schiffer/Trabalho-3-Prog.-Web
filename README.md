@@ -1,4 +1,6 @@
+# Trabalho feito em dupla:
 ## Thiago de Souza Carvalho
+## Thierry Nunes Silva
 
 # Requisitos:
 - Utilizar o framework Laravel
