@@ -1,3 +1,14 @@
+## Thiago de Souza Carvalho
+
+# Requisitos:
+- Utilizar o framework Laravel
+- No mínimo 4 tabelas no banco de dados
+- As tabelas devem ter relacionamentos: um para muitos e muitos para muitos
+- Criar cadastro para todas as tabelas (listagem, criação, edição e remoção)
+- Todas as tabelas do banco de dados devem estar nos arquivos de ‘migrations’
+- Criar ‘seeding’ para as tabelas
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
